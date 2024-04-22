@@ -1,0 +1,64 @@
+
+.nav-point{
+    background-color: #212121;
+    color: #fff;
+    opacity: 0.9;
+    position: sticky;
+    height: 55px;
+    padding-left: 55px; 
+    padding-right: 55px; 
+}
+.gi-buger{
+    font-size: 25px;
+    line-height: 35px;
+}
+.fa-tube{
+    color: red;
+    height: 35px;
+}
+.you-tube{
+    font-size: 20px;
+    font-weight: bold;
+}
+.input-change{
+    background-color: rgb(39 39 42);
+    /* padding-right: 20px; */
+}
+.search-logo{
+    width: 26px;
+    height: 35px;
+    background-color: rgb(39 39 42);
+}
+.place{
+    width: 368px;
+    background-color: rgb(24 24 27);
+    outline: none;
+    border: none;
+}
+.searchbutton{
+    background-color: rgb(24 24 27);
+    height: 40px;
+    padding-left: 16px;
+    border-radius: 15px;
+}
+.searchbtn{
+    font-size: 30px;
+}
+.mic{
+    font-size: 18px;
+    background-color: rgb(24 24 27);
+    border-radius: 50%;
+}
+.bell-o{
+    background-color: rgb(220 38 38);
+}
+.video-tube{
+    font-size: 20px;
+    margin-bottom: 4px;
+    
+}
+.img-profile{
+    width: 36px;
+    height: 32px;
+    margin-top: 5px;
+}
